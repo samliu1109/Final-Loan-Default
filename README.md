@@ -9,7 +9,7 @@ Key Findings
 1.	The last payment amount is the second important variable in the model. It shows that the more the customer pays in his last payment, the less likely the customer will default on the loan.  
 2.	The interest rate on loans is the third important variable in the model. It indicates that the customer will be more likely to default on the loan if the interest rate increases.
 3.	The customer's annual income is the fourth important variable in the model. The model shows that the customer's higher income, the less likely the customer will default on the loan. 
-4.	The revolving line utilization rate is how much you currently owe divided by your credit limit. The model shows that when the customer's utilization rate is 0, the customer will most likely default on the loan. Moreover, it is 10 times more likely to default on a loan than other utilization rate ranges.
+4.	The model shows that when the total amount committed to the loan increases, the customer will most likely default on the loan.
 5.	The number of payments on the loan is an important variable in the model. For example, the customer with 36 months of payments on the loan is 2 times more likely to default on the loan than the customer who has 60 months of payments.
 
 Model Performance Summary & Interpretation 
@@ -23,4 +23,4 @@ Recommendations
 1.	The financial institutions should focus on the customers who pay little in their last payment, tracking them to prevent their high probability of defaulting on their loans. For the email domains of the transactors that has counted as high frequency used in fraud transactions, tracking them to prevent a fraud transaction in advance.  
 2.	Financial institutions should carefully set up the range of the loans' interest rate to avoid that high probability of defaulting loan when the interest rate is too high. In addition, to find out the optimal interest rate that most customers will pay and get the most profit. 
 3.	Financial institutions should categorize their customers by their annual income. The customers with low income would be the high-risk customer to default on loans. Financial institutions could identify them and measure to prevent default from happening. 
-4.	Revolving line utilization rate would be an important key indicator the financial institutions could monitor monthly to identify the most likely customers to default on loans.
+
